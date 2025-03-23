@@ -5,7 +5,7 @@ This repository contains data and analysis related to the revenue and historical
 Features:
 Historical stock price data for Tesla and GameStop
 
-Revenue reports and financial trends over time
+Yearly revenue reports and financial trends over time
 
 Data visualization using Python (Matplotlib)
 
