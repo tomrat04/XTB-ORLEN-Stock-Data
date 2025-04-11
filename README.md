@@ -20,3 +20,4 @@ Run the Jupyter notebooks to explore the data
 
 Data Sources:
 Yahoo Finance (for stock prices)
+strefainwestorow.pl (for yearly revenue)
