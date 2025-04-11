@@ -1,4 +1,4 @@
-#XTB-ORLEN-Stock-Data
+# XTB-ORLEN-Stock-Data
 
 This repository contains data and analysis related to the revenue and historical stock prices of XTB (XTB) and PKN Orlen (PKN). It includes datasets, Python scripts for data visualization, and insights into the financial performance of both companies.
 
